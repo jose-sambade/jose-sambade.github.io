@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This site will contains various data projects I'm working on as my interests and focus shift within the data world. I'll be exploring different platforms, techniques & analysis as I round out my experience. This site will include my reflections as I learn. I hope to include resources other learners can use to develop their skills. 
